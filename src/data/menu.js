@@ -14,5 +14,9 @@ export default [
   {
     title: 'Library',
     url: '/library'
+  },
+   {
+    title: 'Counter  ',
+    url: '/Counter'
   }
 ];

@@ -59,6 +59,18 @@
       "year": "2017",
       "language": "es",
       "state": "Active"
+    },
+    {
+      "id": 6,
+      "title": "Test 6",
+      "slug": "test-6",
+      "content": "<p>Test 6 - Content</p>",
+      "author": "Codejobs",
+      "day": "16",
+      "month": "06",
+      "year": "2017",
+      "language": "es",
+      "state": "Active"
     }
   ]
 }
